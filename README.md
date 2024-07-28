@@ -2,6 +2,10 @@
 
 This project analyzes Steam games with focus on Bethesda Games using SQL and Power BI.
 
+## An image of the Power BI visualization.
+
+![Steam Stats](SteamStats.jpg)
+
 ## Project Structure
 
 - **SQL**: Contains the main SQL script for the generated queries.
