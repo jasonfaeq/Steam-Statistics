@@ -2,6 +2,10 @@
 
 This project analyzes Steam games with focus on Bethesda Games using SQL and Power BI.
 
+## Source CSV File
+
+[Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)
+
 ## An image of the Power BI visualization.
 
 ![Steam Stats](SteamStats.jpg)
@@ -14,7 +18,7 @@ This project analyzes Steam games with focus on Bethesda Games using SQL and Pow
 
 ## Queries
 
-- The SQL queries used for generating visualizations in Power BI are in `SQL/queries.sql`.
+- The SQL queries used for generating visualizations in Power BI are also in the repo.
 
 ## Contact
 
